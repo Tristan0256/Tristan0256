@@ -2,7 +2,7 @@
 - 👀 I’m interested in texes holdem
 - 🌱 I’m currently learning poker
 - 💞️ I’m looking to collaborate on texes holdem
-- 📫 How to reach me my email
+- 📫 How to reach me my email ok
 
 <!---
 Tristan0256/Tristan0256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
